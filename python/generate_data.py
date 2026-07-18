@@ -137,9 +137,11 @@ payment_modes = [
     'Net Banking'
 ]
 transactions = []
+account_ids = accounts_df['account_id'].tolist()
+
 for i in range(1, 50001):
 
-    account_ids = accounts_df['account_id'].tolist()
+    selected_account_id = random.choice(account_ids)
 
     transaction_type = random.choices(
         ['Expense', 'Income'],
@@ -148,47 +150,32 @@ for i in range(1, 50001):
 
     if transaction_type == 'Expense':
 
-        category = random.choice(
-            expense_categories
-        )
-
-        amount = random.randint(
-            100,
-            25000
-        )
+        category = random.choice(expense_categories)
+        amount = random.randint(100, 25000)
 
     else:
 
-        category = random.choice(
-            income_categories
-        )
-
-        amount = random.randint(
-            5000,
-            200000
-        )
+        category = random.choice(income_categories)
+        amount = random.randint(5000, 200000)
 
     transactions.append({
         'transaction_id': i,
-        'account_id': account_id,
-        'transaction_date':
-            fake.date_between(
-                start_date='-2y',
-                end_date='today'
-            ),
+        'account_id': selected_account_id,   # ✅ Correct
+        'transaction_date': fake.date_between(
+            start_date='-2y',
+            end_date='today'
+        ),
         'amount': amount,
         'category': category,
         'type': transaction_type,
-        'payment_mode':
-            random.choice(payment_modes),
-        'description':
-            fake.sentence(nb_words=4)
+        'payment_mode': random.choice(payment_modes),
+        'description': fake.sentence(nb_words=4)
     })
-transactions_df = pd.DataFrame(
-    transactions
-)
+
+transactions_df = pd.DataFrame(transactions)
 print(transactions_df.head())
 print(len(transactions_df))
+
 transactions_df.to_csv(
     'datasets/transactions.csv',
     index=False
