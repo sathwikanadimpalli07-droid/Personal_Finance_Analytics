@@ -54,27 +54,9 @@ Build an end-to-end Personal Finance Behavior Analytics System using **MySQL, Py
 
 # Phase 5: SQL Development
 
-## Basic SQL
-
-- [ ] SELECT
-- [ ] WHERE
-- [ ] ORDER BY
-- [ ] GROUP BY
-- [ ] HAVING
-- [ ] Aggregate Functions
-
-## Intermediate SQL
-
-- [ ] INNER JOIN
-- [ ] LEFT JOIN
-- [ ] RIGHT JOIN
-- [ ] SELF JOIN
-- [ ] Multi-table Analysis
-
-## Advanced SQL
-
-- [ ] Subqueries
-- [ ] Common Table Expressions (CTEs)
+- [x] Basic SQL
+- [x] Intermediate SQL
+- [ ] Advanced SQL
 - [ ] Window Functions
 - [ ] Views
 - [ ] Stored Procedures
