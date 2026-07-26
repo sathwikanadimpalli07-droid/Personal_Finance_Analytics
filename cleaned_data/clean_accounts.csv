@@ -1,0 +1,1012 @@
+account_id,user_id,bank_name,account_type,opening_balance,current_balance
+1,1,Canara Bank,Savings,5640.0,0.0
+2,2,Sbi,Savings,14703.0,21460.0
+3,2,Kotak Mahindra,Current,7930.0,49972.0
+4,2,Axis Bank,Current,35768.0,67562.0
+5,3,Hdfc,Current,58671.0,95503.0
+6,3,Canara Bank,Current,95923.0,97249.0
+7,3,Kotak Mahindra,Current,40653.0,76133.0
+8,4,Axis Bank,Savings,24275.0,60162.0
+9,4,Sbi,Savings,22674.0,48962.0
+10,5,Icici,Current,70221.0,55408.0
+11,5,Sbi,Savings,50418.0,93808.0
+12,5,Axis Bank,Current,37383.0,47965.0
+13,6,Punjab National Bank,Current,44888.0,30373.0
+14,6,Kotak Mahindra,Current,94657.0,90347.0
+15,6,Axis Bank,Current,79661.0,75918.0
+16,7,Kotak Mahindra,Savings,20058.0,15618.0
+17,8,Axis Bank,Savings,99898.0,142031.0
+18,8,Punjab National Bank,Savings,62275.0,60855.0
+19,9,Kotak Mahindra,Current,49244.0,41237.0
+20,9,Kotak Mahindra,Current,76814.0,75785.0
+21,10,Punjab National Bank,Current,73614.0,89342.0
+22,10,Icici,Current,19119.0,25152.0
+23,11,Axis Bank,Savings,40911.0,81047.0
+24,11,Axis Bank,Current,59565.0,68386.0
+25,12,Punjab National Bank,Savings,29737.0,72252.0
+26,13,Punjab National Bank,Current,7142.0,18073.0
+27,13,Kotak Mahindra,Current,49128.0,98278.0
+28,13,Axis Bank,Savings,92639.0,83289.0
+29,14,Icici,Current,53598.0,66309.0
+30,15,Punjab National Bank,Current,35872.0,21295.0
+31,15,Icici,Current,70076.0,76286.0
+32,15,Hdfc,Savings,66049.0,82066.0
+33,16,Axis Bank,Savings,71169.0,108863.0
+34,17,Hdfc,Savings,98643.0,108568.0
+35,18,Sbi,Current,54410.0,79022.0
+36,19,Axis Bank,Current,89603.0,116245.0
+37,20,Punjab National Bank,Savings,6889.0,0.0
+38,20,Canara Bank,Current,41497.0,36737.0
+39,20,Icici,Savings,38327.0,39484.0
+40,21,Sbi,Current,29616.0,28841.0
+41,21,Hdfc,Current,81100.0,73658.0
+42,21,Kotak Mahindra,Current,97060.0,119177.0
+43,22,Punjab National Bank,Current,91097.0,127782.0
+44,22,Kotak Mahindra,Savings,83643.0,117885.0
+45,23,Axis Bank,Savings,55970.0,59245.0
+46,24,Sbi,Savings,56299.0,42742.0
+47,25,Punjab National Bank,Current,66504.0,47368.0
+48,25,Canara Bank,Current,80477.0,62432.0
+49,25,Hdfc,Savings,43659.0,90473.0
+50,26,Sbi,Current,65171.0,45601.0
+51,26,Sbi,Savings,38268.0,34059.0
+52,27,Axis Bank,Current,94181.0,107629.0
+53,27,Icici,Savings,28451.0,30227.0
+54,28,Sbi,Savings,57445.0,39644.0
+55,28,Axis Bank,Current,89875.0,96056.0
+56,29,Canara Bank,Current,85249.0,115670.0
+57,29,Kotak Mahindra,Current,19641.0,43978.0
+58,30,Axis Bank,Savings,86230.0,103736.0
+59,31,Axis Bank,Savings,23009.0,45681.0
+60,31,Punjab National Bank,Current,48503.0,54721.0
+61,31,Sbi,Current,37392.0,37552.0
+62,32,Axis Bank,Savings,59017.0,54346.0
+63,32,Hdfc,Current,19622.0,45536.0
+64,32,Hdfc,Savings,58116.0,105715.0
+65,33,Kotak Mahindra,Current,51664.0,83404.0
+66,34,Sbi,Current,77573.0,125096.0
+67,35,Hdfc,Current,44963.0,72410.0
+68,35,Canara Bank,Current,39938.0,73248.0
+69,35,Sbi,Savings,6736.0,19652.0
+70,36,Kotak Mahindra,Savings,14318.0,54011.0
+71,37,Kotak Mahindra,Current,89435.0,110282.0
+72,38,Icici,Current,32944.0,53836.0
+73,39,Hdfc,Savings,72955.0,92203.0
+74,39,Punjab National Bank,Current,15723.0,44299.0
+75,39,Icici,Current,33108.0,32358.0
+76,40,Kotak Mahindra,Current,28227.0,60749.0
+77,40,Punjab National Bank,Current,45472.0,38287.0
+78,40,Hdfc,Current,14944.0,19134.0
+79,41,Sbi,Savings,92890.0,80211.0
+80,41,Punjab National Bank,Savings,68848.0,75269.0
+81,42,Icici,Savings,23460.0,12946.0
+82,43,Canara Bank,Current,34305.0,14882.0
+83,44,Sbi,Current,67837.0,103463.0
+84,44,Sbi,Current,22658.0,24936.0
+85,45,Sbi,Current,32902.0,63766.0
+86,46,Icici,Savings,41040.0,62053.0
+87,46,Canara Bank,Savings,68544.0,57138.0
+88,46,Icici,Current,58637.0,103076.0
+89,47,Hdfc,Savings,61912.0,47158.0
+90,47,Punjab National Bank,Current,67408.0,88595.0
+91,47,Sbi,Current,88561.0,104602.0
+92,48,Kotak Mahindra,Savings,32330.0,66242.0
+93,48,Canara Bank,Current,55848.0,52691.0
+94,48,Kotak Mahindra,Savings,30053.0,57125.0
+95,49,Sbi,Savings,7756.0,0.0
+96,49,Icici,Current,88746.0,107436.0
+97,49,Canara Bank,Savings,23358.0,12228.0
+98,50,Canara Bank,Current,75662.0,63358.0
+99,50,Axis Bank,Savings,78554.0,118423.0
+100,50,Hdfc,Savings,65496.0,84564.0
+101,51,Icici,Current,69892.0,105262.0
+102,51,Hdfc,Savings,15204.0,19937.0
+103,52,Sbi,Current,24443.0,43232.0
+104,52,Hdfc,Current,80516.0,127864.0
+105,53,Canara Bank,Current,98544.0,89107.0
+106,53,Sbi,Savings,76624.0,86821.0
+107,53,Icici,Current,55472.0,89649.0
+108,54,Punjab National Bank,Current,30551.0,50084.0
+109,54,Icici,Savings,27835.0,34464.0
+110,54,Sbi,Savings,64215.0,64864.0
+111,55,Sbi,Current,34000.0,67345.0
+112,55,Icici,Savings,78583.0,93917.0
+113,56,Axis Bank,Current,41152.0,61682.0
+114,56,Punjab National Bank,Savings,30204.0,41607.0
+115,56,Hdfc,Savings,40375.0,81171.0
+116,57,Sbi,Current,91368.0,86938.0
+117,58,Kotak Mahindra,Savings,10811.0,22846.0
+118,59,Canara Bank,Current,98171.0,88214.0
+119,59,Punjab National Bank,Current,90655.0,123905.0
+120,60,Kotak Mahindra,Savings,33615.0,58445.0
+121,61,Kotak Mahindra,Savings,75899.0,96044.0
+122,61,Axis Bank,Current,59470.0,65649.0
+123,62,Kotak Mahindra,Current,36895.0,21867.0
+124,62,Hdfc,Savings,62372.0,67381.0
+125,62,Kotak Mahindra,Savings,62946.0,101347.0
+126,63,Axis Bank,Current,56818.0,84788.0
+127,63,Axis Bank,Current,34253.0,77328.0
+128,63,Hdfc,Savings,52546.0,90824.0
+129,64,Axis Bank,Current,57991.0,77539.0
+130,65,Icici,Current,9160.0,8225.0
+131,65,Punjab National Bank,Savings,85141.0,100635.0
+132,65,Canara Bank,Current,48344.0,97360.0
+133,66,Canara Bank,Savings,68303.0,70550.0
+134,66,Canara Bank,Current,50452.0,45830.0
+135,66,Axis Bank,Savings,30174.0,32100.0
+136,67,Icici,Savings,81819.0,117746.0
+137,67,Canara Bank,Savings,68031.0,81183.0
+138,67,Punjab National Bank,Savings,47815.0,61713.0
+139,68,Axis Bank,Savings,33589.0,49315.0
+140,68,Kotak Mahindra,Current,44432.0,54610.0
+141,68,Canara Bank,Savings,94851.0,113227.0
+142,69,Sbi,Savings,41144.0,54715.0
+143,70,Hdfc,Savings,81584.0,104095.0
+144,71,Axis Bank,Savings,44281.0,85892.0
+145,71,Icici,Savings,60994.0,101867.0
+146,72,Punjab National Bank,Current,89204.0,115975.0
+147,72,Icici,Savings,76225.0,86988.0
+148,72,Hdfc,Savings,50625.0,84454.0
+149,73,Punjab National Bank,Current,22976.0,31506.0
+150,73,Hdfc,Savings,24268.0,11819.0
+151,74,Kotak Mahindra,Savings,54793.0,98128.0
+152,75,Punjab National Bank,Savings,37136.0,71256.0
+153,75,Kotak Mahindra,Current,59352.0,55911.0
+154,75,Punjab National Bank,Current,91574.0,109531.0
+155,76,Kotak Mahindra,Current,17999.0,54707.0
+156,77,Icici,Current,30435.0,30441.0
+157,77,Canara Bank,Savings,48660.0,51596.0
+158,77,Kotak Mahindra,Current,23736.0,17423.0
+159,78,Sbi,Savings,27231.0,22232.0
+160,78,Kotak Mahindra,Savings,28021.0,61210.0
+161,78,Hdfc,Savings,65909.0,92440.0
+162,79,Punjab National Bank,Savings,28991.0,60718.0
+163,79,Hdfc,Current,90734.0,138495.0
+164,80,Axis Bank,Savings,54547.0,35982.0
+165,80,Icici,Current,56800.0,106772.0
+166,80,Punjab National Bank,Current,93664.0,79184.0
+167,81,Axis Bank,Savings,82357.0,95656.0
+168,81,Icici,Current,55778.0,64939.0
+169,81,Kotak Mahindra,Current,72269.0,53638.0
+170,82,Canara Bank,Savings,46154.0,47895.0
+171,82,Hdfc,Current,24597.0,10735.0
+172,82,Icici,Savings,21202.0,70860.0
+173,83,Icici,Savings,91209.0,134865.0
+174,83,Icici,Savings,85757.0,119351.0
+175,83,Axis Bank,Savings,24297.0,10890.0
+176,84,Sbi,Current,43198.0,25355.0
+177,84,Punjab National Bank,Current,34212.0,59456.0
+178,84,Sbi,Current,31636.0,22902.0
+179,85,Punjab National Bank,Current,46529.0,58658.0
+180,85,Punjab National Bank,Savings,77481.0,100021.0
+181,86,Punjab National Bank,Current,13295.0,27313.0
+182,87,Sbi,Savings,33791.0,71984.0
+183,88,Punjab National Bank,Savings,74317.0,61403.0
+184,88,Icici,Current,77403.0,82182.0
+185,89,Icici,Savings,84216.0,119953.0
+186,89,Hdfc,Savings,76803.0,75915.0
+187,90,Kotak Mahindra,Current,92042.0,106929.0
+188,91,Hdfc,Current,22767.0,54425.0
+189,91,Icici,Savings,98133.0,97541.0
+190,92,Kotak Mahindra,Savings,12033.0,12350.0
+191,92,Kotak Mahindra,Current,43288.0,52268.0
+192,92,Canara Bank,Current,24138.0,53380.0
+193,93,Sbi,Current,74948.0,79241.0
+194,93,Hdfc,Current,97319.0,134268.0
+195,94,Sbi,Savings,68054.0,50369.0
+196,94,Canara Bank,Savings,51957.0,87940.0
+197,95,Icici,Current,81835.0,85213.0
+198,96,Canara Bank,Current,75706.0,71572.0
+199,96,Kotak Mahindra,Current,99807.0,136224.0
+200,96,Canara Bank,Savings,8090.0,40135.0
+201,97,Canara Bank,Savings,28288.0,10875.0
+202,97,Kotak Mahindra,Current,44049.0,27163.0
+203,97,Icici,Savings,35849.0,54309.0
+204,98,Icici,Savings,54244.0,68728.0
+205,98,Icici,Savings,24187.0,33911.0
+206,98,Axis Bank,Savings,86267.0,77687.0
+207,99,Sbi,Current,92141.0,90424.0
+208,99,Icici,Savings,67177.0,62489.0
+209,100,Axis Bank,Current,53363.0,63640.0
+210,100,Icici,Savings,76096.0,71414.0
+211,100,Sbi,Savings,78388.0,120158.0
+212,101,Canara Bank,Current,89591.0,72220.0
+213,101,Hdfc,Savings,64559.0,63880.0
+214,102,Icici,Savings,16895.0,37829.0
+215,102,Hdfc,Savings,93518.0,89884.0
+216,103,Sbi,Current,92621.0,111480.0
+217,103,Axis Bank,Savings,43965.0,43907.0
+218,104,Punjab National Bank,Savings,80139.0,104531.0
+219,104,Icici,Savings,84870.0,99758.0
+220,104,Axis Bank,Savings,47711.0,30410.0
+221,105,Kotak Mahindra,Savings,44425.0,83003.0
+222,105,Sbi,Current,36049.0,35002.0
+223,106,Axis Bank,Current,75993.0,63864.0
+224,107,Punjab National Bank,Current,65401.0,113780.0
+225,107,Axis Bank,Current,13817.0,13122.0
+226,107,Sbi,Current,90314.0,119640.0
+227,108,Kotak Mahindra,Savings,46817.0,95183.0
+228,108,Axis Bank,Savings,26467.0,73913.0
+229,109,Axis Bank,Current,51620.0,56562.0
+230,109,Hdfc,Savings,63020.0,111811.0
+231,110,Canara Bank,Savings,49920.0,74960.0
+232,110,Sbi,Current,28573.0,28786.0
+233,110,Sbi,Savings,64851.0,71110.0
+234,111,Sbi,Current,85823.0,98372.0
+235,111,Kotak Mahindra,Savings,79590.0,93987.0
+236,112,Kotak Mahindra,Current,45626.0,43764.0
+237,113,Axis Bank,Savings,46952.0,52228.0
+238,114,Kotak Mahindra,Current,79439.0,67774.0
+239,114,Punjab National Bank,Current,39292.0,38846.0
+240,114,Canara Bank,Current,43558.0,50885.0
+241,115,Icici,Savings,56518.0,58511.0
+242,116,Hdfc,Savings,73231.0,75582.0
+243,117,Sbi,Current,34670.0,83950.0
+244,117,Canara Bank,Savings,90453.0,110053.0
+245,117,Hdfc,Savings,28567.0,64576.0
+246,118,Kotak Mahindra,Current,72819.0,102291.0
+247,118,Icici,Savings,74629.0,113797.0
+248,119,Axis Bank,Current,79605.0,64709.0
+249,119,Axis Bank,Savings,53452.0,92387.0
+250,120,Canara Bank,Savings,95784.0,128854.0
+251,120,Punjab National Bank,Savings,15975.0,13340.0
+252,120,Kotak Mahindra,Current,6258.0,37459.0
+253,121,Icici,Current,59653.0,100800.0
+254,122,Sbi,Current,70063.0,72445.0
+255,122,Punjab National Bank,Current,36629.0,21287.0
+256,123,Sbi,Current,53814.0,72984.0
+257,123,Punjab National Bank,Savings,59199.0,82154.0
+258,124,Canara Bank,Savings,15356.0,53363.0
+259,124,Axis Bank,Savings,9494.0,49684.0
+260,124,Kotak Mahindra,Current,36318.0,26484.0
+261,125,Punjab National Bank,Current,76014.0,124167.0
+262,126,Sbi,Savings,66058.0,51016.0
+263,127,Axis Bank,Savings,33368.0,15981.0
+264,127,Punjab National Bank,Savings,62628.0,45710.0
+265,128,Kotak Mahindra,Current,21066.0,65132.0
+266,129,Axis Bank,Savings,79904.0,124605.0
+267,129,Punjab National Bank,Current,17875.0,48840.0
+268,130,Hdfc,Current,62180.0,99688.0
+269,131,Axis Bank,Current,49631.0,62949.0
+270,132,Sbi,Current,50216.0,43098.0
+271,132,Hdfc,Current,12717.0,52654.0
+272,132,Axis Bank,Current,55553.0,93256.0
+273,133,Kotak Mahindra,Current,8709.0,0.0
+274,134,Punjab National Bank,Current,93936.0,119402.0
+275,135,Punjab National Bank,Savings,75324.0,74276.0
+276,135,Canara Bank,Current,82612.0,90438.0
+277,135,Hdfc,Current,71934.0,82434.0
+278,136,Kotak Mahindra,Savings,43063.0,48130.0
+279,136,Kotak Mahindra,Current,57384.0,47517.0
+280,137,Hdfc,Savings,77727.0,62978.0
+281,138,Hdfc,Current,14260.0,35835.0
+282,138,Kotak Mahindra,Savings,67842.0,87465.0
+283,139,Kotak Mahindra,Current,57496.0,101655.0
+284,140,Axis Bank,Savings,66453.0,68664.0
+285,140,Punjab National Bank,Current,91026.0,128676.0
+286,140,Hdfc,Current,87879.0,124623.0
+287,141,Axis Bank,Current,85851.0,103307.0
+288,141,Kotak Mahindra,Savings,39974.0,74477.0
+289,141,Punjab National Bank,Savings,21095.0,6716.0
+290,142,Sbi,Current,38575.0,71942.0
+291,142,Punjab National Bank,Current,78185.0,118002.0
+292,143,Punjab National Bank,Current,28834.0,12767.0
+293,143,Axis Bank,Current,58675.0,88201.0
+294,143,Kotak Mahindra,Savings,53483.0,46944.0
+295,144,Canara Bank,Savings,66770.0,88027.0
+296,144,Axis Bank,Savings,33575.0,79838.0
+297,144,Icici,Current,90574.0,112699.0
+298,145,Kotak Mahindra,Savings,88928.0,72069.0
+299,145,Axis Bank,Savings,8756.0,23560.0
+300,145,Punjab National Bank,Current,33871.0,71518.0
+301,146,Hdfc,Current,77412.0,81490.0
+302,146,Kotak Mahindra,Current,59922.0,45850.0
+303,146,Hdfc,Savings,34275.0,40660.0
+304,147,Hdfc,Savings,93023.0,131849.0
+305,147,Hdfc,Savings,67138.0,79888.0
+306,147,Kotak Mahindra,Current,87672.0,82973.0
+307,148,Sbi,Current,53881.0,93127.0
+308,148,Axis Bank,Current,8030.0,33235.0
+309,148,Kotak Mahindra,Savings,20599.0,34212.0
+310,149,Canara Bank,Savings,6991.0,1312.0
+311,150,Axis Bank,Savings,32344.0,28997.0
+312,150,Kotak Mahindra,Savings,48005.0,81764.0
+313,151,Icici,Current,23349.0,46516.0
+314,151,Hdfc,Current,5924.0,0.0
+315,151,Icici,Current,77343.0,89646.0
+316,152,Sbi,Savings,25951.0,13965.0
+317,152,Punjab National Bank,Savings,20480.0,70043.0
+318,152,Icici,Current,97052.0,104423.0
+319,153,Punjab National Bank,Current,37914.0,49301.0
+320,153,Hdfc,Savings,12186.0,28239.0
+321,153,Icici,Savings,31998.0,76213.0
+322,154,Sbi,Current,47468.0,85524.0
+323,154,Sbi,Current,55201.0,35948.0
+324,154,Kotak Mahindra,Savings,68724.0,114536.0
+325,155,Canara Bank,Current,59109.0,97619.0
+326,156,Axis Bank,Savings,83301.0,106773.0
+327,156,Hdfc,Savings,8260.0,13098.0
+328,156,Hdfc,Current,38377.0,61434.0
+329,157,Kotak Mahindra,Current,28275.0,70573.0
+330,157,Icici,Current,33533.0,58864.0
+331,158,Punjab National Bank,Current,58706.0,73638.0
+332,158,Icici,Current,28377.0,57773.0
+333,158,Sbi,Savings,70690.0,77241.0
+334,159,Kotak Mahindra,Current,72953.0,103493.0
+335,159,Sbi,Current,47685.0,67230.0
+336,159,Axis Bank,Current,53018.0,85609.0
+337,160,Hdfc,Current,56370.0,43851.0
+338,160,Hdfc,Savings,57255.0,68582.0
+339,161,Hdfc,Savings,55972.0,99950.0
+340,162,Hdfc,Savings,17628.0,19189.0
+341,162,Icici,Current,86397.0,121534.0
+342,163,Punjab National Bank,Current,98064.0,96119.0
+343,163,Sbi,Current,86040.0,103822.0
+344,163,Punjab National Bank,Savings,64816.0,105384.0
+345,164,Sbi,Savings,22542.0,62262.0
+346,164,Canara Bank,Savings,38085.0,59117.0
+347,164,Sbi,Current,57749.0,51910.0
+348,165,Punjab National Bank,Current,95775.0,137179.0
+349,165,Axis Bank,Current,81356.0,129450.0
+350,166,Sbi,Current,27898.0,67519.0
+351,166,Canara Bank,Savings,86593.0,132264.0
+352,166,Canara Bank,Current,53309.0,54782.0
+353,167,Kotak Mahindra,Savings,9163.0,0.0
+354,168,Kotak Mahindra,Current,92760.0,129060.0
+355,168,Axis Bank,Current,41302.0,89252.0
+356,169,Axis Bank,Current,65503.0,80765.0
+357,169,Sbi,Current,51120.0,77080.0
+358,169,Sbi,Savings,78848.0,80627.0
+359,170,Hdfc,Savings,90624.0,111337.0
+360,170,Canara Bank,Current,56019.0,100303.0
+361,171,Hdfc,Savings,49276.0,30338.0
+362,172,Hdfc,Current,52638.0,59427.0
+363,173,Axis Bank,Savings,19794.0,12411.0
+364,173,Icici,Savings,28845.0,54460.0
+365,174,Sbi,Current,77327.0,89201.0
+366,175,Canara Bank,Savings,37134.0,49768.0
+367,175,Canara Bank,Current,11420.0,45259.0
+368,176,Hdfc,Current,47146.0,70286.0
+369,176,Axis Bank,Current,29688.0,58565.0
+370,177,Punjab National Bank,Savings,91786.0,77748.0
+371,177,Axis Bank,Current,77366.0,99206.0
+372,178,Axis Bank,Savings,91840.0,112000.0
+373,179,Axis Bank,Current,5676.0,44750.0
+374,180,Axis Bank,Savings,55740.0,57585.0
+375,181,Punjab National Bank,Current,76859.0,95842.0
+376,182,Hdfc,Current,49953.0,68078.0
+377,182,Punjab National Bank,Savings,73582.0,77659.0
+378,182,Canara Bank,Current,64050.0,74215.0
+379,183,Canara Bank,Current,65994.0,77536.0
+380,183,Kotak Mahindra,Current,10870.0,53391.0
+381,183,Kotak Mahindra,Savings,43463.0,53993.0
+382,184,Icici,Current,91844.0,100820.0
+383,184,Icici,Current,85030.0,78347.0
+384,184,Axis Bank,Savings,68615.0,113303.0
+385,185,Hdfc,Savings,88188.0,122299.0
+386,186,Punjab National Bank,Current,93533.0,118370.0
+387,187,Kotak Mahindra,Savings,12108.0,58796.0
+388,188,Icici,Savings,22722.0,33248.0
+389,189,Punjab National Bank,Current,19463.0,52277.0
+390,189,Sbi,Savings,74644.0,93274.0
+391,190,Punjab National Bank,Savings,88905.0,91753.0
+392,190,Canara Bank,Current,41303.0,41998.0
+393,190,Icici,Savings,63055.0,50779.0
+394,191,Axis Bank,Current,73600.0,117482.0
+395,191,Sbi,Current,84419.0,80783.0
+396,191,Punjab National Bank,Current,45608.0,73866.0
+397,192,Punjab National Bank,Current,13700.0,33911.0
+398,192,Icici,Savings,63422.0,61589.0
+399,193,Sbi,Savings,23968.0,66363.0
+400,194,Hdfc,Savings,57676.0,100575.0
+401,194,Kotak Mahindra,Current,28083.0,27493.0
+402,194,Sbi,Savings,31861.0,63265.0
+403,195,Icici,Current,23095.0,32015.0
+404,195,Sbi,Savings,14545.0,51854.0
+405,196,Canara Bank,Savings,28541.0,34433.0
+406,196,Kotak Mahindra,Savings,27740.0,73517.0
+407,197,Canara Bank,Savings,30953.0,29139.0
+408,197,Punjab National Bank,Current,34337.0,40475.0
+409,198,Sbi,Savings,12227.0,0.0
+410,198,Hdfc,Current,60923.0,44022.0
+411,199,Icici,Current,9577.0,22276.0
+412,199,Sbi,Current,40974.0,39816.0
+413,199,Axis Bank,Current,49841.0,76208.0
+414,200,Canara Bank,Savings,38920.0,40545.0
+415,200,Punjab National Bank,Current,96885.0,119783.0
+416,201,Kotak Mahindra,Current,78867.0,114299.0
+417,202,Axis Bank,Savings,78385.0,82628.0
+418,203,Axis Bank,Savings,26863.0,27017.0
+419,203,Axis Bank,Current,30561.0,17800.0
+420,203,Icici,Savings,30662.0,28024.0
+421,204,Canara Bank,Savings,48384.0,49095.0
+422,204,Canara Bank,Current,31743.0,73248.0
+423,205,Axis Bank,Savings,96299.0,90470.0
+424,205,Punjab National Bank,Savings,67219.0,75065.0
+425,206,Kotak Mahindra,Current,56073.0,56857.0
+426,206,Kotak Mahindra,Savings,83327.0,102508.0
+427,207,Icici,Current,47252.0,61579.0
+428,207,Axis Bank,Savings,12972.0,20522.0
+429,207,Axis Bank,Current,13539.0,12402.0
+430,208,Axis Bank,Savings,53513.0,51502.0
+431,209,Kotak Mahindra,Savings,65842.0,86316.0
+432,210,Hdfc,Current,5287.0,46700.0
+433,210,Canara Bank,Current,18036.0,50112.0
+434,211,Canara Bank,Savings,89025.0,131822.0
+435,211,Sbi,Savings,75345.0,57084.0
+436,211,Hdfc,Current,62790.0,61890.0
+437,212,Canara Bank,Current,91456.0,82080.0
+438,212,Hdfc,Savings,66832.0,113258.0
+439,212,Hdfc,Current,71623.0,88299.0
+440,213,Punjab National Bank,Savings,89960.0,101281.0
+441,213,Sbi,Current,94833.0,124688.0
+442,214,Icici,Savings,52214.0,37577.0
+443,214,Icici,Savings,79357.0,94871.0
+444,214,Axis Bank,Savings,89810.0,77495.0
+445,215,Axis Bank,Savings,18235.0,0.0
+446,215,Kotak Mahindra,Current,76336.0,93868.0
+447,216,Hdfc,Savings,48826.0,84313.0
+448,217,Kotak Mahindra,Savings,65142.0,105774.0
+449,217,Axis Bank,Savings,42845.0,91865.0
+450,218,Axis Bank,Savings,65000.0,110586.0
+451,219,Icici,Savings,59685.0,72569.0
+452,219,Punjab National Bank,Current,99368.0,111796.0
+453,220,Axis Bank,Savings,32945.0,63089.0
+454,220,Hdfc,Current,83594.0,117052.0
+455,220,Punjab National Bank,Current,38912.0,57377.0
+456,221,Icici,Savings,92508.0,118098.0
+457,221,Hdfc,Savings,18112.0,8509.0
+458,221,Axis Bank,Current,7423.0,6409.0
+459,222,Punjab National Bank,Savings,43376.0,88466.0
+460,223,Icici,Savings,93431.0,136602.0
+461,223,Punjab National Bank,Savings,56347.0,63662.0
+462,224,Punjab National Bank,Current,62743.0,84635.0
+463,224,Icici,Current,34009.0,48102.0
+464,225,Canara Bank,Savings,11558.0,0.0
+465,225,Canara Bank,Savings,71364.0,72452.0
+466,225,Icici,Current,58627.0,75921.0
+467,226,Hdfc,Current,28274.0,73443.0
+468,227,Hdfc,Current,32080.0,27381.0
+469,227,Punjab National Bank,Current,26183.0,56849.0
+470,228,Sbi,Current,71672.0,72084.0
+471,229,Axis Bank,Savings,57329.0,64704.0
+472,229,Punjab National Bank,Current,80282.0,98527.0
+473,229,Hdfc,Savings,59350.0,97367.0
+474,230,Canara Bank,Current,37146.0,23577.0
+475,231,Kotak Mahindra,Current,52343.0,93502.0
+476,231,Punjab National Bank,Current,24653.0,19678.0
+477,231,Hdfc,Savings,50757.0,46689.0
+478,232,Punjab National Bank,Savings,41045.0,36107.0
+479,232,Punjab National Bank,Current,90605.0,134453.0
+480,233,Punjab National Bank,Savings,6085.0,26016.0
+481,233,Hdfc,Savings,73587.0,65033.0
+482,233,Sbi,Current,84082.0,87378.0
+483,234,Sbi,Current,13752.0,36928.0
+484,234,Canara Bank,Current,29288.0,70393.0
+485,234,Icici,Savings,57154.0,48763.0
+486,235,Punjab National Bank,Savings,60607.0,51012.0
+487,235,Kotak Mahindra,Current,26340.0,35301.0
+488,235,Punjab National Bank,Savings,59768.0,91433.0
+489,236,Kotak Mahindra,Current,71849.0,75569.0
+490,236,Icici,Current,18089.0,22075.0
+491,237,Punjab National Bank,Savings,43092.0,64427.0
+492,237,Axis Bank,Current,66672.0,89014.0
+493,237,Icici,Savings,84063.0,67275.0
+494,238,Hdfc,Current,84505.0,77200.0
+495,239,Punjab National Bank,Savings,24030.0,20940.0
+496,240,Axis Bank,Current,38965.0,87580.0
+497,240,Kotak Mahindra,Current,59631.0,74726.0
+498,241,Punjab National Bank,Current,63078.0,46913.0
+499,242,Punjab National Bank,Current,19722.0,18583.0
+500,242,Axis Bank,Savings,15580.0,0.0
+501,243,Sbi,Savings,18817.0,21470.0
+502,243,Kotak Mahindra,Savings,58122.0,92429.0
+503,243,Sbi,Current,5745.0,41320.0
+504,244,Canara Bank,Savings,44420.0,64030.0
+505,244,Hdfc,Savings,40076.0,82112.0
+506,245,Sbi,Current,32540.0,53528.0
+507,246,Punjab National Bank,Current,61998.0,67996.0
+508,246,Icici,Savings,39149.0,50906.0
+509,246,Axis Bank,Current,13677.0,910.0
+510,247,Punjab National Bank,Savings,68464.0,106381.0
+511,248,Sbi,Current,99676.0,93251.0
+512,248,Punjab National Bank,Savings,96943.0,121197.0
+513,249,Hdfc,Current,66826.0,81261.0
+514,249,Axis Bank,Savings,68386.0,67704.0
+515,250,Axis Bank,Current,37270.0,22535.0
+516,251,Kotak Mahindra,Current,92908.0,94409.0
+517,251,Canara Bank,Current,70078.0,95839.0
+518,252,Hdfc,Current,63838.0,93943.0
+519,253,Axis Bank,Current,21328.0,36320.0
+520,254,Canara Bank,Current,74274.0,121080.0
+521,255,Hdfc,Current,82724.0,102534.0
+522,256,Axis Bank,Current,21755.0,13892.0
+523,256,Punjab National Bank,Current,37011.0,66109.0
+524,257,Punjab National Bank,Savings,99599.0,109248.0
+525,258,Axis Bank,Savings,10098.0,0.0
+526,258,Kotak Mahindra,Savings,57562.0,87994.0
+527,259,Kotak Mahindra,Current,79516.0,99080.0
+528,260,Kotak Mahindra,Savings,41256.0,62105.0
+529,260,Punjab National Bank,Current,90226.0,139200.0
+530,260,Axis Bank,Savings,43816.0,59731.0
+531,261,Canara Bank,Current,22804.0,4960.0
+532,261,Hdfc,Current,29738.0,55851.0
+533,262,Hdfc,Current,56472.0,36970.0
+534,262,Kotak Mahindra,Savings,67434.0,67660.0
+535,263,Canara Bank,Current,94214.0,88925.0
+536,263,Hdfc,Savings,86528.0,98352.0
+537,264,Hdfc,Savings,33097.0,37228.0
+538,264,Kotak Mahindra,Current,72665.0,113251.0
+539,264,Kotak Mahindra,Current,41181.0,73908.0
+540,265,Punjab National Bank,Current,43705.0,88160.0
+541,265,Icici,Current,37611.0,28761.0
+542,265,Hdfc,Current,42542.0,23662.0
+543,266,Icici,Current,55847.0,86217.0
+544,267,Punjab National Bank,Current,9387.0,30538.0
+545,268,Sbi,Savings,96097.0,138836.0
+546,268,Icici,Savings,75519.0,110455.0
+547,268,Sbi,Current,71666.0,66233.0
+548,269,Kotak Mahindra,Savings,49372.0,94141.0
+549,269,Kotak Mahindra,Current,45793.0,63481.0
+550,270,Kotak Mahindra,Current,62083.0,102590.0
+551,271,Punjab National Bank,Savings,43918.0,86910.0
+552,272,Hdfc,Savings,65052.0,76999.0
+553,273,Hdfc,Savings,28727.0,37818.0
+554,273,Kotak Mahindra,Savings,69618.0,97893.0
+555,274,Punjab National Bank,Savings,71798.0,114456.0
+556,274,Icici,Savings,20336.0,22569.0
+557,274,Axis Bank,Savings,70938.0,81115.0
+558,275,Punjab National Bank,Savings,31286.0,42975.0
+559,275,Kotak Mahindra,Savings,75458.0,102909.0
+560,275,Canara Bank,Savings,42623.0,34033.0
+561,276,Canara Bank,Current,29400.0,39651.0
+562,277,Sbi,Current,6754.0,26837.0
+563,278,Axis Bank,Current,86500.0,68120.0
+564,278,Kotak Mahindra,Savings,64582.0,59726.0
+565,279,Canara Bank,Current,15819.0,23350.0
+566,280,Icici,Savings,34674.0,18834.0
+567,280,Punjab National Bank,Savings,10491.0,36044.0
+568,280,Axis Bank,Current,64956.0,86456.0
+569,281,Icici,Savings,96219.0,130450.0
+570,281,Canara Bank,Savings,14429.0,10293.0
+571,281,Punjab National Bank,Current,53612.0,78863.0
+572,282,Kotak Mahindra,Savings,80438.0,101028.0
+573,282,Sbi,Savings,50211.0,55367.0
+574,283,Kotak Mahindra,Current,5572.0,0.0
+575,284,Hdfc,Savings,37504.0,52641.0
+576,285,Icici,Savings,33303.0,33701.0
+577,285,Canara Bank,Savings,37565.0,34431.0
+578,285,Axis Bank,Current,47581.0,86101.0
+579,286,Icici,Current,98324.0,96012.0
+580,287,Kotak Mahindra,Current,40252.0,40003.0
+581,288,Hdfc,Savings,49868.0,46120.0
+582,288,Punjab National Bank,Current,28646.0,9042.0
+583,288,Punjab National Bank,Current,85497.0,78196.0
+584,289,Sbi,Savings,99980.0,142420.0
+585,290,Kotak Mahindra,Savings,91280.0,109815.0
+586,291,Axis Bank,Current,84963.0,131988.0
+587,292,Canara Bank,Savings,11201.0,31258.0
+588,292,Canara Bank,Current,78919.0,91602.0
+589,292,Hdfc,Current,86339.0,122556.0
+590,293,Punjab National Bank,Current,62356.0,66010.0
+591,294,Canara Bank,Current,55724.0,98111.0
+592,294,Icici,Current,17191.0,51349.0
+593,295,Kotak Mahindra,Current,67076.0,93301.0
+594,296,Hdfc,Current,89201.0,100741.0
+595,296,Sbi,Savings,27273.0,59846.0
+596,296,Punjab National Bank,Savings,98993.0,142847.0
+597,297,Axis Bank,Current,76019.0,93643.0
+598,297,Kotak Mahindra,Current,83124.0,130888.0
+599,298,Punjab National Bank,Savings,55906.0,58340.0
+600,298,Kotak Mahindra,Current,44275.0,71809.0
+601,298,Sbi,Savings,61553.0,53259.0
+602,299,Kotak Mahindra,Savings,48661.0,55659.0
+603,299,Icici,Savings,60227.0,105153.0
+604,299,Canara Bank,Current,74845.0,60442.0
+605,300,Hdfc,Current,54602.0,45965.0
+606,300,Kotak Mahindra,Current,86119.0,94784.0
+607,301,Icici,Current,73061.0,68963.0
+608,301,Icici,Savings,25446.0,18570.0
+609,302,Canara Bank,Current,37585.0,27939.0
+610,302,Icici,Current,96729.0,133378.0
+611,302,Axis Bank,Current,37636.0,72567.0
+612,303,Hdfc,Current,89151.0,128339.0
+613,303,Hdfc,Current,55277.0,51784.0
+614,303,Kotak Mahindra,Current,77022.0,108196.0
+615,304,Punjab National Bank,Current,35219.0,50055.0
+616,304,Canara Bank,Current,88489.0,123021.0
+617,304,Icici,Savings,73699.0,115995.0
+618,305,Hdfc,Savings,69518.0,106765.0
+619,306,Sbi,Current,22252.0,8310.0
+620,306,Hdfc,Savings,23246.0,63735.0
+621,307,Axis Bank,Current,94318.0,106447.0
+622,307,Axis Bank,Current,32955.0,43414.0
+623,307,Icici,Savings,49763.0,79269.0
+624,308,Axis Bank,Savings,33001.0,77673.0
+625,309,Kotak Mahindra,Savings,77081.0,94801.0
+626,309,Axis Bank,Current,13215.0,26952.0
+627,309,Kotak Mahindra,Savings,46094.0,31208.0
+628,310,Sbi,Savings,15595.0,27232.0
+629,310,Canara Bank,Savings,35105.0,59423.0
+630,310,Icici,Current,50778.0,32090.0
+631,311,Kotak Mahindra,Current,37334.0,31255.0
+632,311,Icici,Current,23611.0,34387.0
+633,312,Punjab National Bank,Current,29212.0,37279.0
+634,312,Kotak Mahindra,Current,35577.0,64622.0
+635,313,Punjab National Bank,Savings,17471.0,55064.0
+636,313,Hdfc,Current,29779.0,46684.0
+637,314,Icici,Savings,27267.0,54524.0
+638,314,Sbi,Savings,21819.0,4792.0
+639,314,Canara Bank,Current,63406.0,70490.0
+640,315,Kotak Mahindra,Savings,72805.0,71463.0
+641,315,Punjab National Bank,Current,33506.0,45055.0
+642,316,Kotak Mahindra,Savings,54293.0,52312.0
+643,316,Punjab National Bank,Savings,46164.0,66072.0
+644,316,Canara Bank,Savings,95719.0,94586.0
+645,317,Icici,Current,50991.0,98366.0
+646,317,Sbi,Savings,37135.0,78337.0
+647,317,Icici,Current,30570.0,59324.0
+648,318,Hdfc,Savings,55138.0,71164.0
+649,318,Punjab National Bank,Current,35907.0,80198.0
+650,318,Canara Bank,Savings,73547.0,97336.0
+651,319,Axis Bank,Savings,68263.0,52221.0
+652,319,Axis Bank,Current,42540.0,57425.0
+653,320,Canara Bank,Current,10697.0,32303.0
+654,321,Kotak Mahindra,Current,25869.0,32488.0
+655,321,Kotak Mahindra,Current,32439.0,61878.0
+656,322,Hdfc,Current,87696.0,81201.0
+657,323,Kotak Mahindra,Savings,21988.0,35981.0
+658,323,Axis Bank,Current,62116.0,103694.0
+659,324,Kotak Mahindra,Savings,10051.0,33702.0
+660,324,Icici,Savings,45433.0,35705.0
+661,324,Axis Bank,Current,67666.0,113681.0
+662,325,Canara Bank,Current,73129.0,78253.0
+663,326,Kotak Mahindra,Current,48408.0,30648.0
+664,326,Kotak Mahindra,Savings,29849.0,67020.0
+665,327,Axis Bank,Current,40715.0,82992.0
+666,328,Sbi,Current,52403.0,75800.0
+667,329,Axis Bank,Savings,43625.0,61450.0
+668,329,Icici,Savings,21747.0,18407.0
+669,330,Hdfc,Current,59262.0,64134.0
+670,330,Kotak Mahindra,Savings,28926.0,20561.0
+671,331,Sbi,Current,21977.0,40767.0
+672,331,Icici,Current,12475.0,0.0
+673,331,Axis Bank,Current,7527.0,0.0
+674,332,Sbi,Savings,10016.0,48564.0
+675,332,Hdfc,Current,64708.0,93470.0
+676,333,Icici,Savings,79549.0,122708.0
+677,333,Canara Bank,Savings,75428.0,116203.0
+678,333,Canara Bank,Current,33183.0,27530.0
+679,334,Canara Bank,Current,64160.0,84366.0
+680,335,Hdfc,Savings,89339.0,117035.0
+681,335,Icici,Current,54467.0,43247.0
+682,336,Icici,Savings,41239.0,52494.0
+683,336,Canara Bank,Savings,44510.0,55384.0
+684,337,Kotak Mahindra,Savings,81012.0,121883.0
+685,337,Icici,Savings,87845.0,97799.0
+686,338,Punjab National Bank,Current,65981.0,65421.0
+687,338,Canara Bank,Savings,56624.0,86330.0
+688,338,Icici,Current,65205.0,114338.0
+689,339,Hdfc,Current,82788.0,80859.0
+690,339,Canara Bank,Savings,95944.0,95556.0
+691,339,Axis Bank,Current,40109.0,50651.0
+692,340,Sbi,Savings,47902.0,60929.0
+693,340,Kotak Mahindra,Savings,45703.0,30694.0
+694,340,Punjab National Bank,Savings,69655.0,115212.0
+695,341,Sbi,Savings,37167.0,62531.0
+696,341,Icici,Savings,23346.0,40165.0
+697,341,Punjab National Bank,Savings,6324.0,35513.0
+698,342,Icici,Savings,77469.0,87143.0
+699,342,Icici,Current,24156.0,63636.0
+700,343,Axis Bank,Savings,45269.0,68427.0
+701,343,Axis Bank,Current,43673.0,74472.0
+702,344,Canara Bank,Savings,21699.0,6798.0
+703,344,Icici,Current,64806.0,76061.0
+704,345,Axis Bank,Savings,32544.0,45374.0
+705,345,Icici,Current,71440.0,101447.0
+706,345,Icici,Current,65337.0,86814.0
+707,346,Axis Bank,Savings,11111.0,32181.0
+708,347,Kotak Mahindra,Savings,21278.0,17886.0
+709,347,Hdfc,Current,62136.0,88279.0
+710,347,Canara Bank,Savings,89954.0,92639.0
+711,348,Icici,Savings,7628.0,0.0
+712,348,Hdfc,Savings,5922.0,52993.0
+713,349,Axis Bank,Current,76225.0,115252.0
+714,350,Kotak Mahindra,Current,19687.0,14146.0
+715,350,Icici,Savings,73368.0,73980.0
+716,351,Icici,Current,75549.0,56510.0
+717,352,Canara Bank,Current,56813.0,67673.0
+718,352,Icici,Current,45739.0,64371.0
+719,353,Hdfc,Savings,43621.0,91917.0
+720,353,Kotak Mahindra,Current,56589.0,93896.0
+721,353,Punjab National Bank,Current,70361.0,88673.0
+722,354,Hdfc,Current,61812.0,84602.0
+723,354,Icici,Current,75949.0,103996.0
+724,354,Axis Bank,Current,40556.0,57850.0
+725,355,Kotak Mahindra,Savings,79112.0,59178.0
+726,355,Axis Bank,Current,82520.0,66859.0
+727,355,Sbi,Savings,10715.0,0.0
+728,356,Icici,Savings,52235.0,49772.0
+729,356,Sbi,Savings,57532.0,71449.0
+730,356,Punjab National Bank,Current,40653.0,67872.0
+731,357,Kotak Mahindra,Savings,76941.0,60553.0
+732,357,Hdfc,Savings,24378.0,52224.0
+733,358,Punjab National Bank,Savings,68523.0,50067.0
+734,359,Sbi,Savings,79840.0,59873.0
+735,359,Hdfc,Savings,85414.0,124300.0
+736,360,Canara Bank,Current,96529.0,115096.0
+737,361,Icici,Savings,96950.0,77122.0
+738,362,Punjab National Bank,Current,78881.0,100991.0
+739,363,Icici,Current,6398.0,17341.0
+740,363,Punjab National Bank,Savings,48928.0,32143.0
+741,363,Kotak Mahindra,Savings,68246.0,96867.0
+742,364,Punjab National Bank,Current,80224.0,105229.0
+743,365,Axis Bank,Current,31823.0,35195.0
+744,365,Canara Bank,Savings,84475.0,68768.0
+745,365,Punjab National Bank,Savings,37052.0,58616.0
+746,366,Canara Bank,Savings,99826.0,96261.0
+747,366,Axis Bank,Savings,20608.0,27954.0
+748,366,Sbi,Current,77349.0,90937.0
+749,367,Canara Bank,Savings,25517.0,30513.0
+750,367,Sbi,Current,59514.0,101418.0
+751,367,Punjab National Bank,Savings,36017.0,19766.0
+752,368,Hdfc,Current,14260.0,35841.0
+753,369,Sbi,Current,79456.0,93765.0
+754,369,Punjab National Bank,Current,40337.0,23421.0
+755,369,Icici,Savings,10444.0,2995.0
+756,370,Sbi,Current,63480.0,76119.0
+757,370,Axis Bank,Current,63329.0,55254.0
+758,371,Canara Bank,Savings,53364.0,66332.0
+759,371,Canara Bank,Current,55180.0,36212.0
+760,371,Sbi,Savings,64158.0,97294.0
+761,372,Sbi,Current,33304.0,48873.0
+762,373,Kotak Mahindra,Savings,88444.0,119840.0
+763,374,Icici,Savings,39556.0,20254.0
+764,374,Icici,Savings,42922.0,45449.0
+765,375,Icici,Savings,22959.0,32666.0
+766,375,Sbi,Current,65114.0,107430.0
+767,375,Kotak Mahindra,Savings,96615.0,100586.0
+768,376,Sbi,Current,49984.0,53965.0
+769,376,Hdfc,Current,45887.0,92386.0
+770,376,Axis Bank,Savings,22055.0,28549.0
+771,377,Canara Bank,Savings,42546.0,54927.0
+772,378,Axis Bank,Savings,73508.0,58587.0
+773,378,Axis Bank,Current,23850.0,59062.0
+774,378,Kotak Mahindra,Savings,16327.0,0.0
+775,379,Punjab National Bank,Savings,91995.0,80754.0
+776,379,Icici,Savings,99345.0,96964.0
+777,379,Punjab National Bank,Current,17433.0,40386.0
+778,380,Canara Bank,Savings,5245.0,0.0
+779,380,Sbi,Current,19611.0,63879.0
+780,381,Axis Bank,Savings,68463.0,79667.0
+781,381,Sbi,Current,65789.0,98547.0
+782,381,Sbi,Savings,85482.0,92874.0
+783,382,Sbi,Savings,90066.0,114464.0
+784,383,Kotak Mahindra,Savings,59148.0,66962.0
+785,383,Canara Bank,Current,43612.0,77586.0
+786,383,Axis Bank,Savings,93376.0,120840.0
+787,384,Punjab National Bank,Current,66696.0,113721.0
+788,384,Hdfc,Current,85532.0,89227.0
+789,385,Axis Bank,Current,40166.0,28006.0
+790,385,Icici,Current,64624.0,47160.0
+791,385,Kotak Mahindra,Current,72012.0,57352.0
+792,386,Punjab National Bank,Current,91740.0,75824.0
+793,386,Punjab National Bank,Current,49340.0,90594.0
+794,386,Punjab National Bank,Savings,31836.0,54656.0
+795,387,Icici,Savings,99941.0,147403.0
+796,388,Sbi,Savings,44701.0,81645.0
+797,388,Kotak Mahindra,Current,62926.0,47317.0
+798,388,Punjab National Bank,Current,42290.0,31412.0
+799,389,Canara Bank,Savings,82186.0,68903.0
+800,389,Icici,Current,81508.0,117501.0
+801,389,Kotak Mahindra,Current,32296.0,40255.0
+802,390,Punjab National Bank,Savings,79741.0,91461.0
+803,391,Icici,Savings,95667.0,115552.0
+804,391,Sbi,Savings,51463.0,75984.0
+805,391,Icici,Savings,44749.0,48217.0
+806,392,Punjab National Bank,Current,51631.0,92898.0
+807,393,Canara Bank,Savings,82927.0,64310.0
+808,393,Punjab National Bank,Current,68816.0,102166.0
+809,393,Kotak Mahindra,Savings,67615.0,54380.0
+810,394,Sbi,Savings,15884.0,0.0
+811,395,Canara Bank,Savings,32605.0,58192.0
+812,395,Sbi,Savings,69711.0,55845.0
+813,395,Canara Bank,Current,25270.0,72293.0
+814,396,Punjab National Bank,Savings,9163.0,2328.0
+815,396,Kotak Mahindra,Current,73921.0,66119.0
+816,397,Kotak Mahindra,Current,16494.0,14765.0
+817,398,Canara Bank,Savings,64254.0,93245.0
+818,398,Kotak Mahindra,Current,75794.0,117565.0
+819,399,Punjab National Bank,Savings,83917.0,130273.0
+820,399,Kotak Mahindra,Savings,8872.0,747.0
+821,400,Axis Bank,Savings,31455.0,18571.0
+822,400,Punjab National Bank,Savings,88453.0,126325.0
+823,400,Kotak Mahindra,Savings,78361.0,84120.0
+824,401,Axis Bank,Savings,97649.0,100607.0
+825,401,Kotak Mahindra,Current,59663.0,93030.0
+826,401,Axis Bank,Current,69923.0,65171.0
+827,402,Canara Bank,Current,72373.0,82534.0
+828,402,Icici,Current,7830.0,45332.0
+829,402,Icici,Savings,53770.0,94301.0
+830,403,Punjab National Bank,Savings,26774.0,67736.0
+831,403,Icici,Savings,65153.0,102242.0
+832,404,Canara Bank,Current,28422.0,53001.0
+833,404,Punjab National Bank,Current,50076.0,52267.0
+834,405,Kotak Mahindra,Current,7985.0,0.0
+835,405,Icici,Current,81576.0,123319.0
+836,405,Canara Bank,Current,85291.0,100868.0
+837,406,Icici,Current,94259.0,85049.0
+838,406,Sbi,Savings,90319.0,137458.0
+839,407,Axis Bank,Savings,5090.0,12966.0
+840,407,Canara Bank,Savings,11543.0,34041.0
+841,408,Axis Bank,Savings,78306.0,119684.0
+842,409,Canara Bank,Savings,75783.0,93809.0
+843,409,Sbi,Current,9320.0,50045.0
+844,410,Axis Bank,Current,49751.0,84749.0
+845,410,Icici,Current,19902.0,15336.0
+846,411,Punjab National Bank,Savings,16294.0,40707.0
+847,412,Canara Bank,Savings,30749.0,75819.0
+848,412,Punjab National Bank,Current,98847.0,101707.0
+849,412,Punjab National Bank,Savings,75660.0,86640.0
+850,413,Axis Bank,Current,66264.0,108134.0
+851,413,Canara Bank,Current,26946.0,55955.0
+852,414,Axis Bank,Savings,59612.0,56102.0
+853,414,Hdfc,Current,99376.0,85660.0
+854,414,Sbi,Current,79421.0,63005.0
+855,415,Axis Bank,Current,55490.0,68043.0
+856,416,Axis Bank,Savings,8563.0,31039.0
+857,416,Punjab National Bank,Current,50111.0,35335.0
+858,416,Punjab National Bank,Savings,12374.0,53640.0
+859,417,Icici,Current,59962.0,81088.0
+860,417,Kotak Mahindra,Savings,25199.0,33695.0
+861,418,Kotak Mahindra,Current,5439.0,19802.0
+862,419,Hdfc,Current,19052.0,19642.0
+863,420,Hdfc,Savings,11643.0,15902.0
+864,420,Icici,Savings,15395.0,7555.0
+865,421,Axis Bank,Savings,78942.0,118731.0
+866,421,Punjab National Bank,Savings,87858.0,126646.0
+867,422,Punjab National Bank,Savings,46688.0,31872.0
+868,422,Canara Bank,Current,7761.0,11741.0
+869,423,Canara Bank,Savings,74026.0,122856.0
+870,424,Axis Bank,Savings,86938.0,99925.0
+871,424,Axis Bank,Current,9282.0,35737.0
+872,424,Kotak Mahindra,Savings,16168.0,0.0
+873,425,Kotak Mahindra,Savings,99568.0,81439.0
+874,425,Punjab National Bank,Savings,88505.0,127652.0
+875,426,Kotak Mahindra,Current,9299.0,11656.0
+876,426,Icici,Current,50940.0,85228.0
+877,426,Punjab National Bank,Current,29121.0,44686.0
+878,427,Punjab National Bank,Savings,82449.0,72574.0
+879,427,Canara Bank,Current,5746.0,23466.0
+880,427,Hdfc,Current,95866.0,129374.0
+881,428,Punjab National Bank,Savings,12178.0,9869.0
+882,428,Canara Bank,Current,98543.0,93244.0
+883,428,Punjab National Bank,Current,64349.0,96832.0
+884,429,Icici,Current,82025.0,104284.0
+885,429,Kotak Mahindra,Savings,11571.0,25567.0
+886,429,Canara Bank,Current,27873.0,30401.0
+887,430,Kotak Mahindra,Current,90365.0,92443.0
+888,431,Hdfc,Current,37828.0,31708.0
+889,432,Kotak Mahindra,Current,10016.0,0.0
+890,433,Axis Bank,Current,45617.0,49962.0
+891,434,Canara Bank,Savings,8995.0,0.0
+892,434,Icici,Savings,93880.0,106818.0
+893,435,Punjab National Bank,Savings,11697.0,59974.0
+894,436,Canara Bank,Current,48992.0,84782.0
+895,436,Hdfc,Savings,98502.0,121151.0
+896,437,Hdfc,Current,84638.0,77930.0
+897,438,Canara Bank,Current,94962.0,75507.0
+898,438,Kotak Mahindra,Current,71053.0,101975.0
+899,439,Axis Bank,Current,41834.0,88024.0
+900,439,Hdfc,Current,21197.0,22343.0
+901,439,Hdfc,Savings,54941.0,39634.0
+902,440,Icici,Current,51286.0,77023.0
+903,440,Axis Bank,Current,55024.0,85789.0
+904,441,Icici,Current,81988.0,116713.0
+905,442,Kotak Mahindra,Current,74054.0,104331.0
+906,442,Icici,Savings,23292.0,48228.0
+907,442,Icici,Current,13035.0,25975.0
+908,443,Sbi,Current,63132.0,103130.0
+909,444,Icici,Current,95035.0,76350.0
+910,445,Sbi,Savings,48572.0,36849.0
+911,446,Canara Bank,Current,95696.0,116688.0
+912,447,Canara Bank,Savings,41847.0,73137.0
+913,447,Punjab National Bank,Current,52521.0,44248.0
+914,447,Sbi,Savings,81106.0,85238.0
+915,448,Sbi,Current,30181.0,36730.0
+916,448,Axis Bank,Current,59364.0,104490.0
+917,448,Hdfc,Savings,88148.0,120781.0
+918,449,Axis Bank,Current,10212.0,30269.0
+919,449,Sbi,Current,89573.0,136378.0
+920,450,Kotak Mahindra,Savings,84218.0,114313.0
+921,451,Axis Bank,Savings,78229.0,121743.0
+922,452,Kotak Mahindra,Current,7686.0,3944.0
+923,452,Canara Bank,Current,34263.0,18076.0
+924,453,Axis Bank,Current,58453.0,69475.0
+925,454,Icici,Savings,23474.0,40669.0
+926,454,Punjab National Bank,Current,26562.0,66036.0
+927,454,Kotak Mahindra,Current,68017.0,51389.0
+928,455,Icici,Savings,66904.0,61957.0
+929,456,Sbi,Current,20673.0,1994.0
+930,456,Hdfc,Savings,50997.0,77275.0
+931,457,Axis Bank,Current,78469.0,65107.0
+932,458,Punjab National Bank,Current,27088.0,69358.0
+933,459,Axis Bank,Current,93450.0,95111.0
+934,459,Kotak Mahindra,Current,13991.0,8605.0
+935,460,Canara Bank,Savings,30543.0,71700.0
+936,460,Canara Bank,Current,73715.0,55205.0
+937,461,Hdfc,Current,28275.0,44733.0
+938,461,Kotak Mahindra,Current,77343.0,61357.0
+939,462,Icici,Current,10861.0,40110.0
+940,462,Canara Bank,Current,84955.0,71756.0
+941,463,Sbi,Current,78896.0,106394.0
+942,463,Kotak Mahindra,Current,49758.0,42571.0
+943,463,Sbi,Current,31065.0,69034.0
+944,464,Canara Bank,Current,41194.0,86228.0
+945,464,Hdfc,Savings,97649.0,80030.0
+946,464,Icici,Savings,40878.0,36433.0
+947,465,Axis Bank,Savings,76771.0,59565.0
+948,465,Axis Bank,Current,89693.0,125813.0
+949,466,Sbi,Current,88647.0,95406.0
+950,466,Icici,Current,7250.0,39951.0
+951,466,Sbi,Savings,41789.0,70201.0
+952,467,Sbi,Current,38440.0,46909.0
+953,468,Punjab National Bank,Savings,43458.0,27016.0
+954,468,Kotak Mahindra,Current,62066.0,66782.0
+955,468,Hdfc,Savings,13748.0,35912.0
+956,469,Canara Bank,Current,88097.0,74322.0
+957,469,Kotak Mahindra,Savings,21824.0,67160.0
+958,470,Icici,Current,52859.0,73258.0
+959,471,Icici,Current,13588.0,0.0
+960,472,Sbi,Current,96506.0,142706.0
+961,472,Sbi,Current,40233.0,63288.0
+962,473,Icici,Savings,83030.0,103875.0
+963,473,Axis Bank,Current,34371.0,31449.0
+964,474,Kotak Mahindra,Current,45594.0,51756.0
+965,474,Punjab National Bank,Current,49335.0,94862.0
+966,475,Kotak Mahindra,Savings,54274.0,47704.0
+967,476,Kotak Mahindra,Current,43973.0,51673.0
+968,477,Canara Bank,Savings,19843.0,34258.0
+969,477,Punjab National Bank,Current,17266.0,2094.0
+970,478,Punjab National Bank,Savings,59714.0,70878.0
+971,479,Sbi,Current,43231.0,25478.0
+972,479,Sbi,Savings,25785.0,66319.0
+973,480,Hdfc,Savings,15661.0,36043.0
+974,480,Hdfc,Savings,8151.0,24156.0
+975,481,Icici,Savings,7620.0,18395.0
+976,482,Canara Bank,Savings,27771.0,18806.0
+977,483,Icici,Savings,97050.0,101117.0
+978,483,Axis Bank,Current,75601.0,73890.0
+979,484,Icici,Current,56370.0,77932.0
+980,484,Kotak Mahindra,Savings,55304.0,49851.0
+981,484,Hdfc,Savings,30811.0,80105.0
+982,485,Icici,Savings,35862.0,78414.0
+983,485,Kotak Mahindra,Current,53332.0,66079.0
+984,485,Icici,Savings,8339.0,0.0
+985,486,Punjab National Bank,Savings,30048.0,13751.0
+986,486,Axis Bank,Savings,46641.0,37873.0
+987,487,Punjab National Bank,Savings,14170.0,31895.0
+988,487,Punjab National Bank,Current,8258.0,56095.0
+989,487,Hdfc,Current,86239.0,83381.0
+990,488,Icici,Current,84312.0,101223.0
+991,488,Kotak Mahindra,Savings,45874.0,58245.0
+992,488,Icici,Current,93050.0,94404.0
+993,489,Sbi,Current,89883.0,110213.0
+994,489,Canara Bank,Current,83832.0,67983.0
+995,490,Canara Bank,Savings,61495.0,106135.0
+996,491,Hdfc,Current,31373.0,15194.0
+997,491,Canara Bank,Savings,69585.0,64727.0
+998,491,Icici,Savings,53683.0,85181.0
+999,492,Axis Bank,Current,32371.0,62890.0
+1000,493,Icici,Savings,19025.0,16738.0
+1001,494,Punjab National Bank,Savings,40726.0,87910.0
+1002,494,Hdfc,Savings,67264.0,73105.0
+1003,494,Hdfc,Current,73466.0,96426.0
+1004,495,Kotak Mahindra,Current,91058.0,79570.0
+1005,496,Punjab National Bank,Savings,16402.0,0.0
+1006,496,Punjab National Bank,Savings,13559.0,0.0
+1007,497,Hdfc,Current,46417.0,47281.0
+1008,497,Canara Bank,Current,93310.0,134188.0
+1009,498,Axis Bank,Current,78161.0,97007.0
+1010,499,Icici,Current,22961.0,21054.0
+1011,500,Hdfc,Current,76719.0,74037.0
