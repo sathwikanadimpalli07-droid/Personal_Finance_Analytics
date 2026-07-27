@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 users = pd.read_csv(r"C:\Users\nadim\OneDrive\Documents\GitHub\Personal_Finance_Analytics\cleaned_data\clean_users.csv")
 accounts = pd.read_csv(r"C:\Users\nadim\OneDrive\Documents\GitHub\Personal_Finance_Analytics\cleaned_data\clean_accounts.csv")
@@ -203,8 +204,11 @@ financial_summary["budget_utilization"] = (
 ) * 100
 financial_summary["budget_utilization"] = (
     financial_summary["budget_utilization"]
+    .replace([np.inf, -np.inf], np.nan)
+)
+financial_summary["budget_utilization"] = (
+    financial_summary["budget_utilization"]
     .fillna(0)
-    .round(2)
 )
 financial_summary["investment_profit"] = (
     financial_summary["current_investment_value"] -
